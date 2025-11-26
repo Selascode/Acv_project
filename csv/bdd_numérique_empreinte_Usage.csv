@@ -1,0 +1,59 @@
+,,
+Données équipements,Nom de la donnée (français),Terminaux,,Quantité d'électricité nécessaire pour le procédé (kWh)
+,,
+Ordinateur portable personnel,Usage moyen d'un ordinateur portable personnel  sur un an,"29,100"
+Ordinateur portable professionnel,Usage moyen d'un ordinateur portable profesionnel sur un an,"48,000"
+Tablette usage personnel,Usage moyen d'une tablette personnelle sur un an,"18,600"
+Tablette usage professionnel,Usage moyen d'une tablette profesionnel sur un an,"5,000"
+Smartphone usage personnel,Usage moyen d'un smartphone personnel sur un an,"3,900"
+Smartphone usage professionnel,Usage moyen d'un smartphone profesionnel sur un an,"2,000"
+Ordinateur fixe (sans écran) personnel,Usage moyen d'un ordinateur fixe personnel sur un an,"100,000"
+Ordinateur fixe (sans écran) professionnel,Usage moyen d'un ordinateur fixe profesionnel sur un an,"151,000"
+Ecran d'ordinateur,Usage moyen d'un écran sur un an,"70,000"
+Téléviseur personnel,Usage moyen d'un téléviseur personnel sur un an,"179,000"
+Téléviseur professionnel,Usage moyen d'un téléviseur profesionnel sur un an,"179,000"
+Disque dur externe,Usage moyen d'un disque dur externe sur un an,"2,828"
+SSD externe,Usage moyen d'un SSD externe sur un an,"0,370"
+Clef USB,Usage moyen d'une clef USB sur un an,"0,150"
+Box,Usage  moyen d'une box sur un an,"73,000"
+IoT - Thermostat connecté,Usage moyen d'un thermostat connecté sur un an,"15,494"
+IoT - Capteur d'industrie,Passif,Passif
+Casque de réalité virtuelle - Technologie de dalle LCD,"Usage  moyen d'un casque de réalité virtuelle à dalle LCD sur un an, incluant les deux manettes","0,707"
+Casque de réalité virtuelle - Technologie de dalle OLED,"Usage  moyen d'un casque de réalité virtuelle à dalle OLED sur un an, incluant les deux manettes","0,726"
+Manette pour casque de réalité virtuelle ,Usage  moyen d'une manette pour un casque de réalité virtuelle sur un an,"0,008"
+Réseaux FAI,,Puissance estimée (W)
+,,
+Accès,,
+Antenne passive multibandes (1.4m à 2.7m),Usage moyen d'une antenne passive multibandes,600
+"BBU (2G, 3G, 4G, 5G)",Usage moyen d'un BBU,2700
+Routeur de collecte sur site radio,Usage moyen d'un routeur de collecte sur site radio,266
+Agregation ,,
+Routeur d'agrégation,Usage moyen d'un routeur d'agréagation,5580
+Équipement WDM de boucle d'agrégation,Usage moyen d'un équipement WDM de boucle d'agrégation,1600
+Security Gateway 4G/5G,Usage moyen d'une security gateway 4G/5G,280
+Backbone,,
+Equipement WDM backbone,Usage moyen d'un équipement WDM backbone,1600
+Routeur P-PE-Peering,Usage moyen d'un routeur P-PE-Peering,13200
+MME /SGSN ,Usage moyen d'un MME/SGSN,2950
+SP-GW /GGSN ,Usage moyen d'un SP-GW/GGSN,917
+Agregation& Backbone,,
+Fibre optique 2 brins,Passif,Passif
+Fibre optique 12 brins,Passif,Passif
+Fibre optique 24 brins,Passif,Passif
+Fibre optique 48 brins,Passif,Passif
+Fibre optique 72 brins,Passif,Passif
+Fibre optique 96 brins,Passif,Passif
+Fibre optique 144 brins,Passif,Passif
+Fibre optique 288 brins,Passif,Passif
+Fibre optique 576 brins,Passif,Passif
+Fibre optique 720 brins,Passif,Passif
+Serveur DC/Cloud (PAS DE REVUE CRITIQUE),,Quantité d'électricité nécessaire pour le procédé (kWh)
+,,
+Serveur rack - petit,Usage moyen d'un serveur rack - petit sur un an,1182
+Serveur rack - moyen,Usage moyen d'un serveur rack - moyen sur un an,1805
+Serveur rack - grand,Usage moyen d'un serveur rack - grand sur un an,20019
+Serveur blade,Usage moyen d'un serveur blade sur un an,1193
+Switch,Usage moyen d'un switch sur un an,786
+Salle technique de centre de données,Passif,Passif
+Bâtiments et environnement technique de centre de données,Usage moyen de bâtiments et environnement technique de CDN sur un an,4220
+Baie de stockage,Usage moyen d'une  baie de stockage  sur un an,883
